@@ -1,5 +1,5 @@
 # slicetest-meridian
-[![Build Status](https://travis-ci.org/kansology/slicetestexamples.svg?branch=master)](https://travis-ci.org/kansology/slicetestexamples)
+[![Build Status](https://travis-ci.org/kansology/slicetest-meridian.svg?branch=sql-sol)](https://travis-ci.org/kansology/slicetest-meridian)
 
 examples for the slice test in Spring Boot
 
